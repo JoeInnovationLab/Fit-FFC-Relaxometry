@@ -1,12 +1,6 @@
-# Fit-FFC-Relaxometry
-FFC relaxometry data analysation tool
-
-
-
 # FFC Relaxometry Data Analysis and Fitting Tool
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![DOI](https://doi.org/10.5281/zenodo.17220341)](https://doi.org/10.5281/zenodo.17220341)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17220341.svg)](https://doi.org/10.5281/zenodo.17220341)
 
 ## Overview
 This software was developed to analyse FFC raw data in the form of *.sdf files.  
