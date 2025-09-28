@@ -1,0 +1,5 @@
+customtkinter==5.2.2
+matplotlib==3.7.2
+numpy==1.25.2
+openpyxl==3.0.10
+scipy==1.16.2
