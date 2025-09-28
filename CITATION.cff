@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Sommer"
+  given-names: "Nadine"
+  orcid: "https://orcid.org/0000-0003-2380-7117"
+- family-names: "Koelblin"
+  given-names: "Joachim"
+  orcid: "https://orcid.org/0000-0002-3623-4752"
+title: "Fit-FFC-Relaxometry"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2025-09-28
+url: "https://github.com/JoeInnovationLab/Fit-FFC-Relaxometry"
